@@ -13,6 +13,10 @@ export class SiderbarService {
         {titulo:"main",url:"/"},
         {titulo:"progress",url:"progress"},
         {titulo:"graficas",url:"grafica1"},
+        {titulo:"promesas",url:"promesas"},
+        {titulo:"rxjs",url:"rxjs"},
+
+
       ]
     }
   ];
